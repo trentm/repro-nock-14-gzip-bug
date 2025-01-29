@@ -1,0 +1,10 @@
+{
+  "name": "repro-nock-14-gzip-bug",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An attempt to demonstrate a possible bug in nock@14's playback of a recorded `fetch()` response when the response uses gzip compression.",
+  "license": "MIT",
+  "dependencies": {
+    "nock": "^14.0.0"
+  }
+}
