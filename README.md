@@ -246,6 +246,8 @@ The recording ("recordings/gzip-compression.json") looks good, I think:
 ]
 ```
 
+## here is the bug
+
 Run the client a second time to use the recording:
 
 ```
